@@ -7,3 +7,4 @@ resource "aws_s3_bucket" "frontend" {
     Name = "Jenkins Bucket"
   }
 }
+
